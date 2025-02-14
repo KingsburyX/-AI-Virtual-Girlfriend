@@ -39,6 +39,7 @@ ollama run Amanda:latest
 
 Finally, it will work like
 ![Test 1](https://github.com/TerimaLabX/-AI-Chat-Robot-Amanda/blob/main/Amandatest1.png)
+and
 ![Test 2](https://github.com/TerimaLabX/-AI-Chat-Robot-Amanda/blob/main/Amandatest2.png)
 
 
