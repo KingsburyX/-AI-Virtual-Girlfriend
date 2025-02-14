@@ -38,7 +38,8 @@ ollama run Amanda:latest
 ```
 
 Finally, it will work like
-[](https://github.com/TerimaLabX/-AI-Chat-Robot-Amanda/blob/main/Amanda%E6%B5%8B%E8%AF%95.png)
+![Test 1](https://github.com/TerimaLabX/-AI-Chat-Robot-Amanda/blob/main/Amanda%E6%B5%8B%E8%AF%95.png)
+![Test 2](https://github.com/TerimaLabX/-AI-Chat-Robot-Amanda/blob/main/Amanda%E6%B5%8B%E8%AF%952.png)
 
 
 If you want to generate more datasets or want to know how I generate the training data, you can open `generator.txt`and get the prompt. By putting this prompt into ChatGPT, you can get many datasets.
